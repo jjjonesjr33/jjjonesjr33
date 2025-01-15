@@ -23,7 +23,7 @@ PROFESSIONAL SKILLS / SERVICES
 <div align="left"><img src="https://img.shields.io/badge/Development-Building%20Infrastructure-blue?style=for-the-badge&logo=serverless&logoColor=white" alt="Development"/></div>
 <div align="left"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Cool-blue?style=for-the-badge&logo=github" alt="Coding Status"/></div>
 <!-- Projects -->
-<h2 align="left">🟢 Currently Active Projects</h2>
+<h2 align="left">🟢 Current Active Projects</h2>
 <div align="left">
 <!-- Developer -->
 <h4 align="left">Developer Involvement</h4>
