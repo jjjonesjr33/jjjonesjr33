@@ -29,6 +29,7 @@ PROFESSIONAL SKILLS / SERVICES
 <h4 align="left">Developer Involvement</h4>
 <a href="https://github.com/jjjonesjr33"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
 <a href="https://forums.unraid.net/profile/129202-jjjonesjr33"><img src="https://img.shields.io/badge/Unraid-F15A24?logo=unraid&logoColor=white&style=for-the-badge" alt="Unraid"></a>
+<a href="https://community.home-assistant.io/u/jjjonesjr33"><img src="https://img.shields.io/badge/Home%20Assistant-blue?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"/></a>
 <a href="https://www.reddit.com/user/jjjonesjr33"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"></a>
 <!-- Media -->
 <h4 align="left">Media Projects</h4>
