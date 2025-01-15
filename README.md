@@ -18,7 +18,7 @@ PROFESSIONAL SKILLS / SERVICES
 • IT Consulting, Networking, & Cybersecurity to ensure secure and efficient technology environments.
 • Digital Marketing, PR, & Social Media Strategy to strengthen brand presence and reach.
 • Executive Administrative Support, Project Management, & Technical Assistance for streamlined operations.
-• Business Analytics, Cloud Management, Information Security, & Web Development to harness technology and data for business growth.
+• Business Analytics, Cloud Management, Information Security, & Web Development to harness technologies for business growth.
 ```
 <div align="left"><img src="https://img.shields.io/badge/Development-Building%20Infrastructure-blue?style=for-the-badge&logo=serverless&logoColor=white" alt="Development"/></div>
 <div align="left"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Cool-blue?style=for-the-badge&logo=github" alt="Coding Status"/></div>
