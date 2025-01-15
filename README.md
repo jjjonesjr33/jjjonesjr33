@@ -3,22 +3,22 @@
 <h2 align="left">Jamie Jones Jr</h2>
 
 <!-- About Me -->
-```html
+```python
 $ whoami
-└─ Entrepreneur, Programmer, and Developer
+└─ ENTREPRENEUR, PROGRAMMER, and DEVELOPER
 
-IT Professional with 18+ years of experience in designing, developing, and deploying solutions to meet critical requirements. 
-Proven leader and motivator, dedicated to empowering individuals and teams through various services. 
+IT PROFESSIONAL with 18+ years of experience in designing, developing, and deploying solutions to meet critical requirements.
+PROVEN LEADER and MOTIVATOR, dedicated to empowering individuals and teams through various services.
 
 PROFESSIONAL SKILLS / SERVICES
 
-• Leadership Development, Life Coaching, & Public Speaking to inspire and motivate individuals and teams.
-• Business, & Education Consulting to elevate organizational growth and success.
-• Brand, Logo, Video, & Web Design to create captivating visual identities and user experiences.
-• IT Consulting, Networking, & Cybersecurity to ensure secure and efficient technology environments.
-• Digital Marketing, PR, & Social Media Strategy to strengthen brand presence and reach.
-• Executive Administrative Support, Project Management, & Technical Assistance for streamlined operations.
-• Business Analytics, Cloud Management, Information Security, & Web Development to harness technologies for business growth.
+• LEADERSHIP DEVELOPMENT, LIFE COACHING, & PUBLIC SPEAKING to inspire and motivate individuals and teams.
+• BUSINESS, & EDUCATION CONSULTING to elevate organizational growth and success.
+• BRAND, LOGO, VIDEO, & WEB DESIGN to create captivating visual identities and user experiences.
+• IT CONSULTING, NETWORKING, & CYBERSECURITY to ensure secure and efficient technology environments.
+• DIGITAL MARKETING, PR, & SOCIAL MEDIA STRATEGY to strengthen brand presence and reach.
+• EXECUTIVE ADMINISTRATIVE SUPPORT, PROJECT MANAGEMENT, & TECHNICAL ASSISTANCE for streamlined operations.
+• BUSINESS ANALYTICS, CLOUD MANAGEMENT, INFORMATION SECURITY, & WEB DEVELOPMENT to harness technologies for business growth.
 ```
 <div align="left"><img src="https://img.shields.io/badge/Development-Building%20Infrastructure-blue?style=for-the-badge&logo=serverless&logoColor=white" alt="Development"/></div>
 <div align="left"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Cool-blue?style=for-the-badge&logo=github" alt="Coding Status"/></div>
