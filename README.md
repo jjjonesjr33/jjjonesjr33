@@ -41,8 +41,8 @@ PROFESSIONAL SKILLS / SERVICES
 <h2 align="left">📈 GitHub Stats</h2>
 <!-- https://github.com/jjjonesjr33/github-readme-stats -->
 <div align=center>
-  <a href="#" title="JJJonesJr33"><img align="left" width="434" src="https://github-readme-stats.vercel.app/api?username=jjjonesjr33&show_icons=true&theme=github_dark&title_color=ffffff&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" /></a>
-  <a href="#" title="JJJonesJr33"><img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjonesjr33&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
+  <a href="#" title="JJJonesJr33"><img align="left" width="434" src="https://github-readme-stats-rho-lovat-38.vercel.app/api?username=jjjonesjr33&show_icons=true&theme=github_dark&title_color=ffffff&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" /></a>
+  <a href="#" title="JJJonesJr33"><img width="315" align="center" src="https://github-readme-stats-rho-lovat-38.vercel.app/api/top-langs/?username=jjjonesjr33&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
 </div>
 <br>
 <br>
