@@ -40,13 +40,9 @@ PROFESSIONAL SKILLS / SERVICES
 </div>
 <h2 align="left">📈 GitHub Stats</h2>
 <!-- https://github.com/jjjonesjr33/github-readme-stats -->
-<div align=center>
-  <a href="#" title="JJJonesJr33"><img align="left" width="434" src="https://github-readme-stats-rho-lovat-38.vercel.app/api?username=jjjonesjr33&show_icons=true&theme=github_dark&title_color=ffffff&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" /></a>
-  <a href="#" title="JJJonesJr33"><img width="315" align="center" src="https://github-readme-stats-rho-lovat-38.vercel.app/api/top-langs/?username=jjjonesjr33&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
-</div>
-<br>
-<br>
-<h2 align="center"> </h2>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jjjonesjr33&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=jjjonesjr33&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
+
 <!-- Socials -->
 <h3 align="left">Socials</h3>
 <div align="left">
@@ -64,3 +60,7 @@ PROFESSIONAL SKILLS / SERVICES
 <a href="https://www.linkedin.com/in/jamiejonesjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:contact@jamiejonesjr.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </div>
+<!-- Website -->
+<h3 align="left">Website(s)</h3>
+
+<a href="https://jamiejonesjr.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+" alt="Website"></a>&nbsp;<a href="https://jjjonesjr33.com" target="_blank"><img src="https://img.shields.io/badge/All%20Links-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+" alt="All Links"></a>
